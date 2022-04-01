@@ -1,0 +1,12 @@
+input  {
+
+    background: aqua;
+    height: 30px;
+    width: 50px;
+}
+
+table {
+    background: brown;
+    height: 300px;
+    width: 200px;
+}
